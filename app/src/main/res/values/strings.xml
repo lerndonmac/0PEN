@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">0PEN</string>
+    <string name="open_barrier">Открыть шлагбаум</string>
+    <string name="settings_text">Настройки</string>
+    <string name="open_barrier_fast">Открывай шлагбаум\nбыстро, легко и просто!</string>
+    <string name="authorization">Авторизоваться</string>
+    <string name="back">Назад</string>
+    <string name="Enter">Войти</string>
+    <string name="Enter_your_email_and_password">Введите свою почту и пароль</string>
+    <string name="Email">Почта</string>
+    <string name="Password">Пароль</string>
+    <string name="Forget_password">Забыли пароль?</string>
+    <string name="haventaccount">Нет аккаунта?</string>
+    <string name="Register"><u>Зарегистрируйтесь</u></string>
+    <string name="registration">Регистрация</string>
+    <string name="create_your_account">Создай свой аккаунт</string>
+    <string name="have_already_account">Уже есть аккаунт?</string>
+    <string name="Enter_account"><u>Войдите</u></string>
+    <string name="Enter_name">Имя</string>
+    <string name="confirm_your_password">Подтвердите пароль</string>
+    <string name="indentifier">Идентификатор</string>
+    <string name="pleasenterid">Пожалуйста введите идендификатор</string>
+</resources>
